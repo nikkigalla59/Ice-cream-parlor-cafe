@@ -1,1 +1,87 @@
+#INITIAL OUTPUT 
+
+
+Welcome to the Ice Cream Parlor Cafe!
+
+What would you like to do?
+
+1. View seasonal flavor offerings
+2. Search for a product
+3. Add a product to your cart
+4. View your cart
+5. Add an allergen
+6. Exit
+
+Enter your choice: 
+
+
+#VIEW SEASONAL FLAVOURINGS
+
+Seasonal Flavor Offerings:
+1. Strawberry Cheesecake
+2. Mint Chocolate Chip
+3. Pumpkin Spice
+4. Peppermint Mocha
+5. Gingerbread
+
+What would you like to do?
+1. Search for a product
+2. Add a product to your cart
+3. View your cart
+4. Add an allergen
+5. Exit
+Enter your choice: 
+
+
+#SEARCH FOR A PRODUCT
+
+Search for a product: mint
+Search Results:
+1. Mint Chocolate Chip
+What would you like to do?
+
+1. Add Mint Chocolate Chip to your cart
+2. Search for another product
+3. View your cart
+4. Add an allergen
+5. Exit
+Enter your choice: 
+
+
+
+#ADD A PRODUCT
+
+Add Mint Chocolate Chip to your cart?
+Yes/No: yes
+Your Cart:
+1. Mint Chocolate Chip
+What would you like to do?
+
+1. View your cart
+2. Add another product to your cart
+3. Remove a product from your cart
+4. Add an allergen
+5. Exit
+Enter your choice: 
+
+
+
+#View your Cart
+Your Cart:
+
+1. Mint Chocolate Chip
+2. Strawberry Cheesecake
+What would you like to do?
+1. Add another product to your cart
+2. Remove a product from your cart
+3. Add an allergen
+4. Exit
+Enter your choice: 
+
+
+#EXIT 
+
+Thank you for visiting the Ice Cream Parlor Cafe!
+
+Goodbye!
 
