@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ice Cream Parlor</title>
+  </head>
+  <body>
+    <h1>Ice Cream Parlor</h1>
+    <ul>
+      {% for flavor in flavors %}
+        <li>{{ flavor.name }} ({{ flavor.description }})</li>
+      {% endfor %}
+    </ul>
+    <form action="/search" method="get">
+      <input type="text" name="q" placeholder="Search...">
+      <button type="submit">Search</button>
+    </form>
+  </body>
+</html>
